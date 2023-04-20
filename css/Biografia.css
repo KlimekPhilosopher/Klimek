@@ -1,0 +1,61 @@
+/*making smooth animated background for the website using darkblue gray and yellow*/
+/*footer*/
+footer{
+    background-color: rgb(5, 165, 240);
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "Calibri";
+}
+/*main*/
+main{
+    background-color: #0a426b;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "Calibri";
+}
+/*section*/
+section{
+    background-color: #0a426b;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "Calibri";
+}
+/*article*/
+article{
+    background-color: #0a426b;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "Calibri";
+}
+/*aside*/
+aside{
+    background-color: #0a426b;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "Calibri";
+}
